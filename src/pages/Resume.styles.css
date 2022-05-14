@@ -1,0 +1,9 @@
+.left img{
+    width: 60%;
+}
+
+.left .card {
+    width: 60%;
+    height: 50vh;
+    margin-top: 2rem;
+}
