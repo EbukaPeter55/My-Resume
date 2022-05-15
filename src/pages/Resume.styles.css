@@ -1,5 +1,14 @@
-.left img{
-    width: 60%;
+.top {
+    padding: 1rem;
+    background: lightblue;
+}
+
+.top img{
+    width: 20%;
+}
+
+.top .card-right {
+    margin-left: 5%;
 }
 
 .left .card {
