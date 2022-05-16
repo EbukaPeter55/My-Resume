@@ -17,17 +17,27 @@
 }
 
 .top .card-right h1 span {
-    color: green;
+    color: blue;
 }
 
 .top .card-right hr {
     background: green;
 }
+
 .top .card-right h6 {
     text-transform: uppercase;
     font-weight: 500;
 }
 
+.top .card-right .address:nth-child(2){
+    margin-left: 10%;
+}
+
+.top .card-right .address p {
+    margin-left: .57rem;
+    font-size: .89rem;
+    font-weight: 500;
+}
 /* BOTTOM LAYOUT */
 /* Left */
 .left .card {
