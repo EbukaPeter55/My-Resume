@@ -56,15 +56,15 @@ const Resume = () => {
             <div className='row'>
                 {/* Left section */}
             <div className='col-md-4 left'>
-            <div className='card'>
+            <div className='card left_card'>
             <h6>About me</h6>
-            <hr/>
+            <hr className='left_card--line'/>
             <p>
             I am a Senior Frontend engineer,
             UX designer and Tech writer
             </p>
-            <h6>Skills</h6>
-            <hr/>
+            <h6 className='about_me'>Skills</h6>
+            <hr className='about_me-line'/>
             </div>
             </div>
                 {/* End of left section */}

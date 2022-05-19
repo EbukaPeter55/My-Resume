@@ -45,4 +45,32 @@
     height: 50vh;
     margin-top: 2rem;
     background-color: lightblue;
+    padding: .87rem;
+}
+
+.left .left_card h6{
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.left .left_card .left_card--line {
+    background: blue;
+    margin-top: 1px;
+    height: 1.5px;
+}
+
+.left .left_card p{
+    font-size: .8rem;
+    font-weight: 500;
+    margin-top: -2px;
+}
+
+.left .left_card .about_me{
+    margin-top: 1rem;
+}
+
+.left .left_card .about_me-line{
+    margin-top: 1px;
+    height: 1.5px;
+    background: blue;
 }
