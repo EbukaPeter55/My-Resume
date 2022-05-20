@@ -124,16 +124,93 @@ const Resume = () => {
               </ul>
             </div>
             <div class="resume-item">
-              <h5>Complete Web and Mobile UI/UX designer</h5>
-              <h6>September 2020 - December 2020</h6>
-              <p className='school'><em>Zero to mastery academy (ZTM)</em></p>
-              <p>A hands on and immersive online course on Web and Mobile UX design</p>
-              <p><em>Certificate </em>: <a 
-                target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/17sLLxhoJBxIMlIypJypk0v9qRH2TOX6V/view?usp=sharing">
-                click to view certificate
-              </a></p>
+              <h5>UIUX designer/Frontend engineer (Full time)</h5>
+              <h6>February 2020 - March 2022</h6>
+              <p className='school'><em>ICS Outsourcing, Lagos Nigeria </em></p>
+              <ul>
+                <li>Conduct UX and Product research. </li>
+                <li>Wireframing, High fidelity mockup design and prototyping with Figma</li>
+                <li>UI Implementation of mockup design to code</li>
+                <li>API Integration to the backend</li>
+                <li>Technical documentation and writing</li>
+                <li>Scrum master</li>
+                <li>Helped the company to win a huge Bank project worth several millions of naira, by designing an enterprise 
+                  feedback monitory application for both desktop backend and mobile frontend </li>
+              </ul>
             </div>
-         
+            <div class="resume-item">
+              <h5>UIUX design/Frontend mentor</h5>
+              <h6>April 2021 - June 2021 </h6>
+              <p className='school'><em>Zuri Internship (HNG interhsip)</em></p>
+              <ul>
+                <li> Provide mentorship to interns. Help review their designs and code.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h5>Tech author/writer</h5>
+              <h6>December 2020 - present</h6>
+              <p className='school'><em>Userinterfacecabal</em>: <a
+              target="_blank" rel="noreferrer" href="https://userinterfacecabal.com/">click to visit blog</a></p>
+              <ul>
+                <li> Create design and Frontend technologies tech content.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h5>Frontend engineer and Team lead (Part time)</h5>
+              <h6>November 2019 - present</h6>
+              <p className='school'><em>Gudlife technology</em></p>
+              <ul>
+                <li>Organize, Lead product designers and engineers, to accompany project tasks.</li>
+                <li>Frontend implementation of mockup designs to code.</li>
+                <li>API integration with backend servers.</li>
+                <li> Deployment of application to test and hosting servers.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h5>Fullstack web developer intern (Full time)</h5>
+              <h6>July 2019 - October 2019</h6>
+              <p className='school'><em>Linuxjobber-U.S.A. Lagos Nigeria office (Full time)</em></p>
+              <ul>
+                <li>Worked with product designers to implement mockup designs to code, using Angular</li>
+                <li>API integration with backend servers.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h5>Frontend engineer intern (Remote full time).</h5>
+              <h6>April 1st 2019 - May 31st 2019</h6>
+              <p className='school'><em>Hotels.ng(HNG Internship)</em></p>
+              <ul>
+                <li>Worked with product designers to implement mockup designs to code, using HTML, vanilla js, Bootstrap and handlebars(Nodejs template engine).</li>
+                <li>Collaborated with a remote team using Git and Github</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h5>Volunteer Lead Organizer- Kotlin Benin Developer community(Koltin User group).</h5>
+              <h6>November 2018 - till date</h6>
+              <p className='school'><em>Kotlin User group (Jetbrains)</em></p>
+              <ul>
+                <li>Worked with my co-organizers to organize monthly meetup events for the community</li>
+                <li>Lead and organize mentorship activities that aid the community members to learn Kotlin.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h5>Volunteer Lead Organizer/mentor and Learning Community Ambassador - Andela Learning Community (ALC Edo state).</h5>
+              <h6> June 2018 - August 2019</h6>
+              <p className='school'><em>Andela Learning Community (ALC).</em></p>
+              <ul>
+                <li>Mentor Google Africa scholarship recipients in the Android track</li>
+                <li>Organize and facilitate offline meetup events.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h5>Professional Freelance Computer hardware engineer</h5>
+              <h6> January 2017 - August 2018</h6>
+              <p className='school'>Pedon technologies.</p>
+              <ul>
+                <li>Basic and advance troubleshooting of computer hardware issues for clients</li>
+                <li>Upgrade, repair, maintenance of computer hardware and software for clients.</li>
+              </ul>
+            </div>
             </div>
             </div>
             {/* END OF WORK EXPERIENCE */}
