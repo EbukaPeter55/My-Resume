@@ -11,7 +11,7 @@ const Resume = () => {
             <img className='img-fluid' src={profile} alt="profileImage"/>
             <div className='card-right'>
                 <h1>Ebuka <span>Peter</span></h1>
-                <h6>Senior Frontend engineer</h6>
+                <h6>Senior Frontend engineer & UI/UX Designer</h6>
                 <hr/>
                 <div className='d-flex flex-row top_wrapper'>
                 <div className='d-flex flex-row align-items-baseline address'>
@@ -71,8 +71,72 @@ const Resume = () => {
 
             {/* Right section */}
             <div className='col-md-8'>
-            <h2>Right</h2>
-            
+            <div className='education'>
+            <h3>Education and Qualification</h3>
+            <hr className='education_line'/>
+            <div className='education_wrapper'>
+            <div class="resume-item">
+              <h5>React Nanodegree</h5>
+              <h6>September 2021 - December 2021</h6>
+              <p className='school'><em>Udacity</em></p>
+              <p>A hands on  and immersive training on React, Redux and React Native</p>
+              <p><em>Certificate credentials</em>: <a 
+                target="_blank" rel="noreferrer" href="https://graduation.udacity.com/confirm/32AXPDM9">
+                See credentials
+              </a></p>
+            </div>
+            <div class="resume-item">
+              <h5>Complete Web and Mobile UI/UX designer</h5>
+              <h6>September 2020 - December 2020</h6>
+              <p className='school'><em>Zero to mastery academy (ZTM)</em></p>
+              <p>A hands on and immersive online course on Web and Mobile UX design</p>
+              <p><em>Certificate </em>: <a 
+                target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/17sLLxhoJBxIMlIypJypk0v9qRH2TOX6V/view?usp=sharing">
+                click to view certificate
+              </a></p>
+            </div>
+            <div class="resume-item">
+              <h5>Diploma in Computer hardware engineering</h5>
+              <h6>2016 - 2017</h6>
+              <p className='school'><em>Unival Institute Of Technology, Benin City, Nigeria.</em></p>
+              <p>A hands on  and immersive practical traianing on computer hardwares, maintainance and repairs</p>
+            </div>
+            <div class="resume-item">
+              <h5>Bachelor of Science (Bsc.) Biochemistry.</h5>
+              <h6>2011 - 2016</h6>
+              <p className='school'><em>University Of Benin- Uniben.</em></p>
+              <p>Benin City, Edo state, Nigeria</p>
+            </div>
+            </div>
+            </div>
+
+             {/* WORK EXPERIENCE */}
+            <div className='education'>
+            <h3>Professional experience</h3>
+            <hr className='education_line'/>
+            <div className='education_wrapper'>
+            <div class="resume-item">
+              <h5>Senior software developer</h5>
+              <h6>March 2022 - Present</h6>
+              <p className='school'><em>Canary Point Corporate Services-Fintech </em></p>
+              <ul>
+                <li>Contribute to the company's Fintech products, using Reactjs and Redux.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h5>Complete Web and Mobile UI/UX designer</h5>
+              <h6>September 2020 - December 2020</h6>
+              <p className='school'><em>Zero to mastery academy (ZTM)</em></p>
+              <p>A hands on and immersive online course on Web and Mobile UX design</p>
+              <p><em>Certificate </em>: <a 
+                target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/17sLLxhoJBxIMlIypJypk0v9qRH2TOX6V/view?usp=sharing">
+                click to view certificate
+              </a></p>
+            </div>
+         
+            </div>
+            </div>
+            {/* END OF WORK EXPERIENCE */}
             </div>
             </div>
         </div>

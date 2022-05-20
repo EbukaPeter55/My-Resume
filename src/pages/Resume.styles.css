@@ -38,6 +38,8 @@
     font-size: .89rem;
     font-weight: 500;
 }
+
+
 /* BOTTOM LAYOUT */
 /* Left */
 .left .card {
@@ -73,4 +75,44 @@
     margin-top: 1px;
     height: 1.5px;
     background: blue;
+}
+
+/* RIGHT STYLES */
+.education_wrapper {
+    border-left: 2px solid rgba(0, 0, 255, 0.513);
+    padding-left: .8rem;
+}
+
+.education {
+    margin-top: 3rem;
+    margin-left: -13%;
+}
+
+.education h3{
+    font-weight: 700;
+    color: blue;
+    text-transform: uppercase;
+}
+
+.education .education_line{
+    background: blue;
+    height: 1.5px;
+    margin-top: 1px;
+}
+
+.education .resume-item h5{
+    color: blue;
+    text-transform: uppercase;
+}
+
+.education .resume-item h6 {
+    font-weight: 600;
+}
+
+.education .resume-item .school{
+    font-weight: 600;
+}
+
+.education .resume-item p a{
+    text-decoration: none;
 }
